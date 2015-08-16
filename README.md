@@ -4,6 +4,8 @@ called SimpleStreamer.
 
 I make use of https://github.com/sarxos/webcam-capture library for capturing images from the webcam.
 
+In this project, I also provide a ready to use .jar file which includes all required packages.
+
 ## Architecture
 The SimpleStreamer application will include both server and client behaviour. There are two modes that SimpleStreamer 
 can run in: Local and Remote. 
